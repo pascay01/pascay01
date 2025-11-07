@@ -8,4 +8,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![AWS Certified Cloud Practitioner Badge](<img width="600" height="600" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/8418b535-ad99-480d-bc09-3e2f7c2697e9"/>)](https://www.credly.com/badges/4c3d43de-2834-4491-8956-93e8dcd6ddff/public_url)
+[![AWS Certified Cloud Practitioner Badge]()](https://www.credly.com/badges/4c3d43de-2834-4491-8956-93e8dcd6ddff/public_url)
